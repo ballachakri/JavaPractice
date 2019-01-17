@@ -1,5 +1,7 @@
 package Java_Sample_Programs;
 
+import java.lang.reflect.Array;
+
 public class Loops {
 
 // loops are used to execute a set of statements repeatedly until a particular condition is satisfied
@@ -48,8 +50,8 @@ public class Loops {
 //  }
 
 // Continue : is mostly used inside loops. whenever it is encountered inside a loop, control directly jumps to the beginning of the loop for next iteration skipping of the statements inside loops' body for the current iteration.
-// this particularly useful when we want to continue the loop but do not want the rest of the statements in loop dody to execute for the particular iteration,
+// this particularly useful when we want to continue the loop but do not want the rest of the statements in loop body to execute for the particular iteration,
 
-// break :  a) use break to come out the loop instantly, whenever a break statement is encountered inside loop, th control come out of loop and loop gets terminated for rest of the iteration.
+// break :  a) use break to come out the loop instantly, whenever a break statement is encountered inside loop, the control come out of loop and loop gets terminated for rest of the iteration.
 //          b) in switch case control
 }
